@@ -17,9 +17,9 @@ int main()
     int n,x;
     int a[n];
     cin>>n;
-    cout<<"enter the element to be found"<<endl;
+    cout<<" enter the element to be found "<<endl;
     cin>>x;
-    cout<<"enter the elements of an array"<<endl;
+    cout<<" enter the elements of an array "<<endl;
     for(int i=0; i <n; i++)
     {
         cin>>a[i];
